@@ -1,0 +1,9 @@
+{
+  "energy_savings_joules": 17.87044920080904,
+  "energy_savings_percent": 26.713299795369483,
+  "sinr_iron_mean_db": 21.882289627500832,
+  "sinr_trad_mean_db": 3.365274819076015,
+  "sinr_improvement_db": 18.51701480842482,
+  "iron_reliability_percent": 76.66666666666667,
+  "trad_reliability_percent": 12.666666666666668
+}
