@@ -1,7 +1,3 @@
-Here is a **clean, professional, concise README** you can use. It avoids hype, explains the project clearly, and includes a **simple architecture diagram** to understand the workflow.
-
----
-
 # IRON Arch
 
 **Energy-Efficient Resource Allocation for Dense Wireless Networks**
@@ -165,7 +161,27 @@ IRON_ARC/
 └── requirements.txt
 ```
 
+# Installation
+
+```bash
+git clone https://github.com/Runa8147/I.R.O.N.-Arch.git
+cd IRON_ARC
+
+pip install -r requirements.txt
+```
+
 ---
+
+# Run Simulation
+
+```bash
+python iron_arch.py
+```
+
+Results will be saved in the **results/** directory.
+
+---
+
 
 # Results
 
@@ -201,36 +217,3 @@ Shows signal reliability across users.
 
 ---
 
-# Installation
-
-```bash
-git clone <repository-url>
-cd IRON_ARC
-
-pip install -r requirements.txt
-```
-
----
-
-# Run Simulation
-
-```bash
-python iron_arch.py
-```
-
-Results will be saved in the **results/** directory.
-
----
-
-# Output Files
-
-| File                  | Description                    |
-| --------------------- | ------------------------------ |
-| topology_plot.png     | Network layout and AP clusters |
-| energy_comparison.png | Energy usage comparison        |
-| sinr_cdf.png          | SINR reliability distribution  |
-| metrics.json          | Simulation statistics          |
-
----
-
-If you want, I can also give you a **much better README with a clean architecture diagram image (SVG) that looks very professional on GitHub**. It will make the project look **more like a research/system project on your resume.**
